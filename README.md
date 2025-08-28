@@ -1,4 +1,4 @@
-# Atomic_Chess_Engine
+# Atomic_Chess_Engine (NOTE: Atomic capabilities not incorporated yet!)
 
 An AI-based engine for Atomic Chess, developed with PyTorch and a convolutional neural network.
 
